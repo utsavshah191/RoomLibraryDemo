@@ -1,0 +1,6 @@
+
+ssquid:S2637"_"id" is marked "android.support.annotation.NonNull" but is not initialized in this constructor.(øþ±,
+•squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(øþ±,
+lsquid:UselessImportCheck"ERemove this unused import 'android.arch.persistence.room.ColumnInfo'.(Ž„Ùóÿÿÿÿÿ
+hsquid:UselessImportCheck"ARemove this unused import 'android.arch.persistence.room.Ignore'.(Üúâôüÿÿÿÿ
+gsquid:UselessImportCheck"@Remove this unused import 'android.support.annotation.Nullable'.(Ö‹øïüÿÿÿÿ

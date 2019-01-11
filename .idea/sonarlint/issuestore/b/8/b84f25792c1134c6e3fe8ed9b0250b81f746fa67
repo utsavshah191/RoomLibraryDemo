@@ -1,0 +1,11 @@
+
+csquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.( èÙ›
+>squid:S1068")Remove this unused "phone" private field.(À†½´
+csquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÒÔæ±
+]squid:HiddenFieldCheck"8Rename "name" which hides the field declared at line 93.(‹ìœÖÿÿÿÿÿ
+=squid:S1068"(Remove this unused "name" private field.(Ë¥¼
+^squid:HiddenFieldCheck"9Rename "phone" which hides the field declared at line 94.(Â“Õìüÿÿÿÿ
+hsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(µìô×şÿÿÿÿ
+@squid:S1068"&Remove this unused "id" private field.(ôç¼Óşÿÿÿÿ
+hsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¥…Š£ıÿÿÿÿ
+Vsquid:HiddenFieldCheck"6Rename "id" which hides the field declared at line 95.(ĞİÓµ

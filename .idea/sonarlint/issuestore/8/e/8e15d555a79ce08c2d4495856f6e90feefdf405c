@@ -1,0 +1,11 @@
+
+Asquid:S1659"-Declare "textViewPhoneNo" on a separate line.(ïüM
+=squid:S1659")Declare "textViewAge" on a separate line.(ïüM
+Asquid:S1659"-Declare "textViewPinCode" on a separate line.(ïüM
+^squid:UselessImportCheck"<Remove this unused import 'android.arch.lifecycle.LiveData'.(Úò›
+dsquid:UselessImportCheck"BRemove this unused import 'android.arch.lifecycle.LifecycleOwner'.(ßŒò×
+Xsquid:UselessImportCheck"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ
+csquid:UselessImportCheck"<Remove this unused import 'android.arch.lifecycle.Observer'.(ŞƒşÖÿÿÿÿÿ
+gsquid:UselessImportCheck"@Remove this unused import 'android.support.annotation.Nullable'.(Ö‹øïüÿÿÿÿ
+Ssquid:UselessImportCheck"1Remove this unused import 'android.app.Activity'.(‡ÊÍÆ
+Tsquid:UselessImportCheck"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ

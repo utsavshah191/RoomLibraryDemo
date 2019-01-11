@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RoomLibraryDemo</string>
+    <string name="please_enter_you_name">Please enter you name</string>
+    <string name="please_enter_your_phone_number">Please enter your phone number</string>
+    <string name="please_enter_your_age">Please enter your age</string>
+    <string name="please_enter_your_pincode">Please enter your pincode</string>
+    <string name="button_save">Save</string>
+    <string name="button_delete_all">Delete All</string>
+</resources>
